@@ -1,4 +1,5 @@
 <?php  
+    //快速排序
     function  zzu()
     {
         $left=[];
