@@ -1,4 +1,5 @@
-<?php  
+<?php
+    计算一个区间中1出现的次数
     function  caftn($str,$end)
     {
         // $aus=strval($str);
